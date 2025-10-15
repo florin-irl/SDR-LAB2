@@ -7,6 +7,7 @@ Ivana Florin-Andrei – Master E-Guvernare – An I
 **Nume:** Netflix Users Dataset  
 
 **Sursă:** [Kaggle Link](https://www.kaggle.com/datasets/smayanj/netflix-users-database)
+
 **Descriere:**  
 Acest set de date conține informații despre un eșantion de **100 de utilizatori** ai unei platforme de tip Netflix.  
 Fiecare utilizator este caracterizat prin informații demografice, preferințe de conținut și activitate recentă, utilizate pentru personalizarea recomandărilor.  
