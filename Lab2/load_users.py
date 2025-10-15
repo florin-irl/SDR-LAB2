@@ -10,7 +10,7 @@ client = RecombeeClient(
   region=Region.EU_WEST
 )
 
-# definire proprietați user
+# definire proprietati user
 requests = [
     AddUserProperty("name", "string"),
     AddUserProperty("age", "int"),
